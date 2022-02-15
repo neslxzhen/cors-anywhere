@@ -1,0 +1,5 @@
+{
+  "name": "cors-anywhere",
+  "description": "CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request",
+  "repository": "https://github.com/neslxzhen/cors-anywhere"
+}
